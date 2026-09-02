@@ -204,6 +204,21 @@ Stay tuned — the Ternary Universe is expanding. 🌌
 
 ---
 
+## 💚 Apoie o Projeto / Support the Project
+
+<div align="center">
+
+<p><strong>Se você acredita na computação ternária, considere apoiar o Universo Ternário.</strong><br>
+<em>If you believe in ternary computing, consider supporting Universo Ternário.</em></p>
+
+<img src="assets/chave_pix_universoternario.jpeg" alt="QR Code Pix — Doação Universo Ternário" width="220">
+
+<p><strong>Chave Pix / Pix Key:</strong> <code>universoternario@gmail.com</code></p>
+
+</div>
+
+---
+
 ## 🌐 Conecte-se / Connect With Us
 
 | Plataforma / Platform | Link |
