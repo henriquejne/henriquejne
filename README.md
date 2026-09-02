@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner visual do projeto / Project banner -->
-<img src="https://raw.githubusercontent.com/henriquejne/henriquejne/main/assets/banner-universo-ternario.svg" alt="Universo Ternário — Computação em 3 Estados / Three-State Computing" width="100%">
+<!-- Banner do projeto / Project banner -->
+<img src="https://raw.githubusercontent.com/henriquejne/henriquejne/main/assets/banner_universo_ternario.png" alt="Universo Ternário — Computação em 3 Estados / Three-State Computing" width="100%">
 
 <h1>🌌 Universo Ternário</h1>
 
@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="Apache 2.0">
 <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento%20/%20In%20Development-orange?style=for-the-badge" alt="Em Desenvolvimento / In Development">
 <img src="https://img.shields.io/badge/Codificação%20/%20Encoding-BET-green?style=for-the-badge" alt="BET">
+<img src="https://img.shields.io/badge/IA%20/%20AI-Suporte%20Ativo-purple?style=for-the-badge" alt="IA / AI">
 
 </div>
 
@@ -68,6 +69,37 @@ Cada **trit** (dígito ternário) é codificado em **dois bits** binários:
 - ✅ **Detecção de erros integrada** — o padrão `00` acusa erros automaticamente
 - ✅ **Lógica ternária balanceada** — operações aritméticas e lógicas em 3 estados
 - ✅ **Caminho para o futuro** — quando o hardware ternário surgir, a transição será natural
+
+### 🏗️ Arquitetura BET — Visão Geral
+
+A imagem abaixo ilustra a estrutura completa da codificação BET no Universo Ternário, mostrando o fluxo desde os softwares e arquivos até os circuitos digitais e manutenção técnica:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/henriquejne/henriquejne/main/assets/arquitetura_bet.png" alt="Arquitetura BET — Universo Ternário" width="100%">
+  <p><em>Arquitetura BET: Software → Circuitos Digitais → Manutenção Técnica</em></p>
+</div>
+
+**Componentes da arquitetura:**
+
+1. **Software e Arquivos** — Dados ternários codificados em pares de bits (01, 01 / 10, 01 / 01, 01)
+2. **Tabela de Conversão Ternária** — Mapeamento direto entre trits balanceados e binário:
+   - TRIT +1 (Verdadeiro, Positivo, +5V) → `10`
+   - TRIT 0 (Neutro, 0V) → `11`
+   - TRIT -1 (Falso, Negativo, -5V) → `01`
+   - **Detecção de erro:** `00` = Erro (Falha de Hardware)
+3. **Circuitos Digitais** — Decodificador de trit com controle de tensão e seleção de voltagem (+5V, 0V, -5V)
+4. **Barramento Ternário Simulado** — Bus que transporta os trits codificados em binário
+5. **Manutenção Técnica** — Fluxo de diagnóstico com verificação de código:
+   - Código válido (10, 11, 01) → Operação Normal
+   - Código inválido (00) → Erro Detectado (Linha Desconectada / Falha)
+
+### 🤖 Inteligência Artificial
+
+> **O Universo Ternário é desenvolvido com suporte de Inteligência Artificial.**
+>
+> Ver arquivo [NOTICE](NOTICE).
+
+O uso de ferramentas de Inteligência Artificial (IA) auxilia na pesquisa, desenvolvimento, documentação e divulgação da computação ternária. A lógica ternária balanceada, a codificação BET e as arquiteturas propostas são conceitos originais do projeto Universo Ternário.
 
 ### 🚀 Sobre o Projeto
 
@@ -121,6 +153,37 @@ Each **trit** (ternary digit) is encoded into **two binary bits**:
 - ✅ **Built-in error detection** — the `00` pattern automatically flags errors
 - ✅ **Balanced ternary logic** — arithmetic and logical operations in 3 states
 - ✅ **Path to the future** — when ternary hardware emerges, the transition will be seamless
+
+### 🏗️ BET Architecture — Overview
+
+The image below illustrates the complete structure of BET encoding in Universo Ternário, showing the flow from software and files to digital circuits and technical maintenance:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/henriquejne/henriquejne/main/assets/arquitetura_bet.png" alt="BET Architecture — Universo Ternário" width="100%">
+  <p><em>BET Architecture: Software → Digital Circuits → Technical Maintenance</em></p>
+</div>
+
+**Architecture components:**
+
+1. **Software & Files** — Ternary data encoded in bit pairs (01, 01 / 10, 01 / 01, 01)
+2. **Ternary Conversion Table** — Direct mapping between balanced trits and binary:
+   - TRIT +1 (True, Positive, +5V) → `10`
+   - TRIT 0 (Neutral, 0V) → `11`
+   - TRIT -1 (False, Negative, -5V) → `01`
+   - **Error detection:** `00` = Error (Hardware Failure)
+3. **Digital Circuits** — Trit decoder with voltage control and selection (+5V, 0V, -5V)
+4. **Simulated Ternary Bus** — Bus that transports trits encoded in binary
+5. **Technical Maintenance** — Diagnostic flow with code verification:
+   - Valid code (10, 11, 01) → Normal Operation
+   - Invalid code (00) → Error Detected (Disconnected Line / Failure)
+
+### 🤖 Artificial Intelligence
+
+> **Universo Ternário is developed with Artificial Intelligence support.**
+>
+> See [NOTICE](NOTICE) file.
+
+The use of Artificial Intelligence (AI) tools assists in the research, development, documentation, and dissemination of ternary computing. The balanced ternary logic, the BET encoding, and the proposed architectures are original concepts of the Universo Ternário project.
 
 ### 🚀 About the Project
 
