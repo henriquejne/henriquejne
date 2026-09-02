@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner do projeto / Project banner -->
-<img src="https://raw.githubusercontent.com/henriquejne/henriquejne/assets/banner_universo_ternario.png" alt="Universo Ternário — Computação em 3 Estados / Three-State Computing" width="100%">
+<img src="assets/banner_universo_ternario.png" alt="Universo Ternário — Computação em 3 Estados / Three-State Computing" width="100%">
 
 <h1>🌌 Universo Ternário</h1>
 
@@ -75,7 +75,7 @@ Cada **trit** (dígito ternário) é codificado em **dois bits** binários:
 A imagem abaixo ilustra a estrutura completa da codificação BET no Universo Ternário, mostrando o fluxo desde os softwares e arquivos até os circuitos digitais e manutenção técnica:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/henriquejne/henriquejne/main/assets/arquitetura_bet.png" alt="Arquitetura BET — Universo Ternário" width="100%">
+  <img src="assets/arquitetura_bet.png" alt="Arquitetura BET — Universo Ternário" width="100%">
   <p><em>Arquitetura BET: Software → Circuitos Digitais → Manutenção Técnica</em></p>
 </div>
 
@@ -159,7 +159,7 @@ Each **trit** (ternary digit) is encoded into **two binary bits**:
 The image below illustrates the complete structure of BET encoding in Universo Ternário, showing the flow from software and files to digital circuits and technical maintenance:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/henriquejne/henriquejne/main/assets/arquitetura_bet.png" alt="BET Architecture — Universo Ternário" width="100%">
+  <img src="assets/arquitetura_bet.png" alt="BET Architecture — Universo Ternário" width="100%">
   <p><em>BET Architecture: Software → Digital Circuits → Technical Maintenance</em></p>
 </div>
 
