@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner do projeto / Project banner -->
-<img src="https://raw.githubusercontent.com/henriquejne/henriquejne/main/assets/banner_universo_ternario.png" alt="Universo Ternário — Computação em 3 Estados / Three-State Computing" width="100%">
+<img src="https://raw.githubusercontent.com/henriquejne/henriquejne/assets/banner_universo_ternario.png" alt="Universo Ternário — Computação em 3 Estados / Three-State Computing" width="100%">
 
 <h1>🌌 Universo Ternário</h1>
 
