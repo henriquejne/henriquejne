@@ -114,7 +114,22 @@ O **Universo Ternário** é um projeto de pesquisa e desenvolvimento dedicado ex
 
 ### 📦 Repositórios
 
-> 🔒 **Em breve:** nossos repositórios estão em desenvolvimento privado e serão liberados publicamente assim que atingirem maturidade suficiente para a comunidade.
+> 🔒 **Em desenvolvimento privado:** [github.com/henriquejne/Projeto-Universo-Ternario](https://github.com/henriquejne/Projeto-Universo-Ternario)
+>
+> ⚠️ Este repositório está **privado** no momento, pois ainda está em desenvolvimento ativo. Será liberado publicamente assim que atingir maturidade suficiente para a comunidade.
+
+O repositório principal **privado** que está em desenvolvimento ativo já conta com:
+
+- 🏗️ **Arquitetura da CPU-UT** — processador ternário balanceado
+- 📐 **ISA** — Instruction Set Architecture proprietária
+- 💻 **SOUT OS** — sistema operacional ternário (kernel, scheduler, VFS, GUI, subsistema de aceleração de IA)
+- 📁 **Formato `.eut`** — formato de arquivo executável ternário
+- 🔌 **Geração de módulos RTL** em Verilog / SystemVerilog
+- ➕ **ALU ternária** com pipeline e T-Vector
+- 🔧 **Bootloader UART**
+- 🛠️ **Toolchain open-source** — assembler, simulador, UART loader, scripts de automação
+- 📋 **Especificação completa do SOUT** — kernel, scheduler, VFS, GUI e subsistema de aceleração de IA
+- 🗂️ **Estruturação do repositório**, Makefile, CI/CD e roadmap
 
 Fique de olho — o Universo Ternário está se expandindo. 🌌
 
@@ -198,7 +213,22 @@ The use of Artificial Intelligence (AI) tools assists in the research, developme
 
 ### 📦 Repositories
 
-> 🔒 **Coming soon:** our repositories are currently in private development and will be released publicly as soon as they reach sufficient maturity for the community.
+> 🔒 **In private development:** [github.com/henriquejne/Projeto-Universo-Ternario](https://github.com/henriquejne/Projeto-Universo-Ternario)
+>
+> ⚠️ This repository is currently **private** as it is still under active development. It will be released publicly as soon as it reaches sufficient maturity for the community.
+
+The main repository is under active development and already includes:
+
+- 🏗️ **CPU-UT Architecture** — balanced ternary processor
+- 📐 **ISA** — proprietary Instruction Set Architecture
+- 💻 **SOUT OS** — ternary operating system (kernel, scheduler, VFS, GUI, AI acceleration subsystem)
+- 📁 **`.eut` format** — ternary executable file format
+- 🔌 **RTL module generation** in Verilog / SystemVerilog
+- ➕ **Ternary ALU** with pipeline and T-Vector
+- 🔧 **UART bootloader**
+- 🛠️ **Open-source toolchain** — assembler, simulator, UART loader, automation scripts
+- 📋 **Complete SOUT specification** — kernel, scheduler, VFS, GUI and AI acceleration subsystem
+- 🗂️ **Repository structuring**, Makefile, CI/CD and roadmap
 
 Stay tuned — the Ternary Universe is expanding. 🌌
 
