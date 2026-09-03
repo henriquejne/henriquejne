@@ -120,7 +120,7 @@ O **Universo Ternário** é um projeto de pesquisa e desenvolvimento dedicado ex
 
 O repositório principal **privado** que está em desenvolvimento ativo já conta com:
 
-- 🏗️ **Arquitetura da CPU-UT** — processador ternário balanceado
+- 🏗️ **Arquitetura da CPU-UT** — processador ternário balanceado 24 Trits
 - 📐 **ISA** — Instruction Set Architecture proprietária
 - 💻 **SOUT OS** — sistema operacional ternário (kernel, scheduler, VFS, GUI, subsistema de aceleração de IA)
 - 📁 **Formato `.eut`** — formato de arquivo executável ternário
@@ -219,7 +219,7 @@ The use of Artificial Intelligence (AI) tools assists in the research, developme
 
 The main repository is under active development and already includes:
 
-- 🏗️ **CPU-UT Architecture** — balanced ternary processor
+- 🏗️ **CPU-UT Architecture** — 24-Trit Balanced Ternary Processor
 - 📐 **ISA** — proprietary Instruction Set Architecture
 - 💻 **SOUT OS** — ternary operating system (kernel, scheduler, VFS, GUI, AI acceleration subsystem)
 - 📁 **`.eut` format** — ternary executable file format
