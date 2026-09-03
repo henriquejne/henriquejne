@@ -6,10 +6,10 @@
 <h1>🌌 Universo Ternário</h1>
 
 <p><strong>Desenvolvendo a computação Ternária: +1, 0 e -1</strong><br>
-<em>Sim, Não e Talvez. Vamos explorar os Três.</em></p>
+<em>Sim, Não e Talvez. Vamos explorar os Trits.</em></p>
 
 <p><strong>Developing Ternary Computing: +1, 0 and -1</strong><br>
-<em>Yes, No and Maybe. Let's explore the Three.</em></p>
+<em>Yes, No and Maybe. Let's explore the Trits.</em></p>
 
 <!-- Badges -->
 <a href="https://www.youtube.com/@UniversoTernário" target="_blank">
